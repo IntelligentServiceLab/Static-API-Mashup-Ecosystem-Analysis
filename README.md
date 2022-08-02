@@ -11,12 +11,15 @@ The Web API and Mashup dataset is crawled from [ProgrammableWeb.com](https://www
 ### Paper One
 Charts | Codes | Charts | Codes
  :- | :- |  :- | :-
-Table I  | table1.py | Figure 1 | figure1.py
-Table II | table2.py | Figure 2 | figure2.py
-Table III| table3.py | Figure 3 | figure3.py
-Table IV | table4.py | Figure 4 | figure4.py
-Table V  | table5.py | Figure 5 | figure5.py
-Table VI | table6.py | Figure 6 | figure6.py
+Table 1  | table1.py | Table 10 | table10.py
+Table 2  | table2.py | Table 11 | table11.py
+Table 3  | table3.py | Figure 1 | see paper
+Table 4  | table4.py | Figure 2 | figure2.py
+Table 5  | table5.py | Figure 3 | figure3.py
+Table 6  | table6.py | Figure 4 | see paper
+Table 7  | table7.py | Figure 5 | see paper
+Table 8  | table8.py | Figure 6 | figure6.py
+Table 9  | table9.py | Figure 7 | figure7.py
 
 ### Paper Two
 Charts | Codes | Charts | Codes
