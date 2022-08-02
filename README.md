@@ -9,14 +9,14 @@ This repository presents the tables and figures of the following two papers by r
 The Web API and Mashup dataset is crawled from [ProgrammableWeb.com](https://www.programmableweb.com/). More details can be referred to another [github repository](https://github.com/IntelligentServiceLab/Web-Service-Crawler). 
 ## Codes and Experimental Charts
 ### Paper One
-Charts | Codes
- :- | :-
-Table I | table1.py
-Table II| table2.py
-Table III| table3.py
-Table IV| table4.py
-Table V |table5.py
-Table VI| table6.py
+Charts | Codes | Charts | Codes
+ :- | :- |  :- | :-
+Table I  | table1.py | Figure 1 | figure1.py
+Table II | table2.py | Figure 2 | figure2.py
+Table III| table3.py | Figure 3 | figure3.py
+Table IV | table4.py | Figure 4 | figure4.py
+Table V  | table5.py | Figure 5 | figure5.py
+Table VI | table6.py | Figure 6 | figure6.py
 
 ### Paper Two
 
