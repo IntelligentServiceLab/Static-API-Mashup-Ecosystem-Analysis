@@ -8,7 +8,7 @@ This repository presents the tables and figures of the following two papers by r
 ## Dataset Description
 The Web API and Mashup dataset is crawled from [ProgrammableWeb.com](https://www.programmableweb.com/). More details can be referred to another [github repository](https://github.com/IntelligentServiceLab/Web-Service-Crawler). 
 ## Codes and Experimental Charts
-### Paper One
+### Paper One：API-Mashup Ecosystem
 Charts | Codes | Charts | Codes
  :- | :- |  :- | :-
 Table 1  | [table1.py]() | Table 10 | [table10.py]()
@@ -21,7 +21,7 @@ Table 7  | [table7.py]() | Figure 5 | see paper
 Table 8  | [table8.py]() | Figure 6 | [figure6.py]()
 Table 9  | [table9.py]() | Figure 7 | [figure7.py]()
 
-### Paper Two
+### Paper Two：K-Core Analysis
 Charts | Codes | Charts | Codes
  :- | :- |  :- | :-
 Table I  | [table1.py]() | Figure 1 | [figure1.py]()
