@@ -27,12 +27,12 @@ Charts | Codes | Charts | Codes
 ### Paper Two：K-Core Analysis
 Charts | Codes | Charts | Codes
  :- | :- |  :- | :-
-[Table I ](K-Core_Analysis/charts/table I.jpg)   | [table1.py](K-Core_Analysis/table I.py)  | [Figure 1](K-Core_Analysis/charts/figure1.jpg) | [figure1.py](K-Core_Analysis/figure1.py)
-[Table II](K-Core_Analysis/charts/table II.jpg)  | [table2.py](K-Core_Analysis/table II.py) | Figure 2 | see paper
-[Table III](K-Core_Analysis/charts/table III.jpg)| [table3.py](K-Core_Analysis/table III.py)| [Figure 3](K-Core_Analysis/charts/figure3.jpg) | [figure3.py](K-Core_Analysis/figure3.py)
-[Table IV](K-Core_Analysis/charts/table IV.jpg)  | [table4.py](K-Core_Analysis/table IV.py) | Figure 4 | see paper
-[Table V ](K-Core_Analysis/charts/table V.jpg)   | [table5.py](K-Core_Analysis/table V.py)  | [Figure 5](K-Core_Analysis/charts/figure5.jpg) | [figure5.py](K-Core_Analysis/figure5.py)
-[Table VI](K-Core_Analysis/charts/table VI.jpg)  | [table6.py](K-Core_Analysis/table VI.py) | [Figure 6](K-Core_Analysis/charts/figure6.jpg) | [figure6.py](K-Core_Analysis/figure6.py)
+[Table 1](K-Core_Analysis/charts/table1.jpg) | [table1.py](K-Core_Analysis/table1.py) | [Figure 1](K-Core_Analysis/charts/figure1.jpg) | [figure1.py](K-Core_Analysis/figure1.py)
+[Table 2](K-Core_Analysis/charts/table2.jpg) | [table2.py](K-Core_Analysis/table2.py) | Figure 2 | see paper
+[Table 3](K-Core_Analysis/charts/table3.jpg) | [table3.py](K-Core_Analysis/table3.py) | [Figure 3](K-Core_Analysis/charts/figure3.jpg) | [figure3.py](K-Core_Analysis/figure3.py)
+[Table 4](K-Core_Analysis/charts/table4.jpg) | [table4.py](K-Core_Analysis/table4.py) | Figure 4 | see paper
+[Table 5](K-Core_Analysis/charts/table5.jpg) | [table5.py](K-Core_Analysis/table5.py) | [Figure 5](K-Core_Analysis/charts/figure5.jpg) | [figure5.py](K-Core_Analysis/figure5.py)
+[Table 6](K-Core_Analysis/charts/table6.jpg) | [table6.py](K-Core_Analysis/table6.py) | [Figure 6](K-Core_Analysis/charts/figure6.jpg) | [figure6.py](K-Core_Analysis/figure6.py)
 
 #### Contact
 Email: 1376493805@qq.com (Yang Wang)
