@@ -35,4 +35,4 @@ Charts | Codes | Charts | Codes
 [Table 6](K-Core_Analysis/charts/table6.jpg) | [table6.py](K-Core_Analysis/table6.py) | [Figure 6](K-Core_Analysis/charts/figure6.jpg) | [figure6.py](K-Core_Analysis/figure6.py)
 
 #### Contact
-Email: 1376493805@qq.com (Yang Wang)
+Email: 1439256987@qq.com (Yang Wang)
