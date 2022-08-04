@@ -14,15 +14,15 @@ The Web API and Mashup dataset is crawled from [ProgrammableWeb.com](https://www
 ### Paper One：API-Mashup Ecosystem
 Charts | Codes | Charts | Codes
  :- | :- |  :- | :-
-[Table 1](API-Mashup_Ecosystem/table1.py)  | [table1.py](API-Mashup_Ecosystem/charts/table1.jpg) | Table 10 | --
-Table 2  | [table2.py]() | Table 11 | --
-Table 3  | [table3.py]() | Figure 1 | see paper
-Table 4  | [table4.py]() | Figure 2 | [figure2.py]()
-Table 5  | [table5.py]() | Figure 3 | [figure3.py]()
-Table 6  | [table6.py]() | Figure 4 | see paper
-Table 7  | [table7.py]() | Figure 5 | see paper
-Table 8  | [table8.py]() | Figure 6 | [figure6.py]()
-Table 9  | [table9.py]() | Figure 7 | --
+[Table 1](API-Mashup_Ecosystem/charts/table1.jpg)  | [table1.py](API-Mashup_Ecosystem/table1.py) | Table 10 | --
+[Table 2](API-Mashup_Ecosystem/charts/table2.jpg)  | [table2.py](API-Mashup_Ecosystem/table2.py) | Table 11 | --
+[Table 3](API-Mashup_Ecosystem/charts/table3.jpg)  | [table3.py](API-Mashup_Ecosystem/table3.py) | Figure 1 | see paper
+[Table 4](API-Mashup_Ecosystem/charts/table4.jpg)  | [table4.py](API-Mashup_Ecosystem/table4.py) | [Figure 2](API-Mashup_Ecosystem/charts/figure2.jpg) | [figure2.py](API-Mashup_Ecosystem/figure2.py)
+[Table 5](API-Mashup_Ecosystem/charts/table5.jpg)  | [table5.py](API-Mashup_Ecosystem/table5.py) | [Figure 3](API-Mashup_Ecosystem/charts/figure3.jpg) | [figure3.py](API-Mashup_Ecosystem/figure3.py)
+[Table 6](API-Mashup_Ecosystem/charts/table6.jpg)  | [table6.py](API-Mashup_Ecosystem/table6.py) | Figure 4 | see paper
+[Table 7](API-Mashup_Ecosystem/charts/table7.jpg)  | [table7.py](API-Mashup_Ecosystem/table7.py) | Figure 5 | see paper
+[Table 8](API-Mashup_Ecosystem/charts/table8.jpg)  | [table8.py](API-Mashup_Ecosystem/table8.py) | [Figure 6](API-Mashup_Ecosystem/charts/figure6.jpg) | [figure6.py](API-Mashup_Ecosystem/figure6.py)
+[Table 9](API-Mashup_Ecosystem/charts/table9.jpg)  | [table9.py](API-Mashup_Ecosystem/table9.py) | Figure 7 | --
 
 ### Paper Two：K-Core Analysis
 Charts | Codes | Charts | Codes
