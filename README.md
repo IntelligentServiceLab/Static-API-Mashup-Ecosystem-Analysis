@@ -7,6 +7,9 @@ This repository presents the tables and figures of the following two papers by r
 > Mingdong Tang, Wenquan Lei, and Sixian Lian. **A K-Core Analysis to Large-Scale Web Api Collaboration Networks**. *International Conference on Service Science (ICSS)*. IEEE, pp. 90-95, 2020. [PDF](https://pan.baidu.com/s/19l4qz0u1nOfoPpDcW96i5g?pwd=kang)
 ## Dataset Description
 The Web API and Mashup dataset is crawled from [ProgrammableWeb.com](https://www.programmableweb.com/). More details can be referred to another [github repository](https://github.com/IntelligentServiceLab/Web-Service-Crawler). 
+
+**Note that**: Because there is no provider information on Web APIs in the current datasets, we omiit the charts related to providers of Web APIS.
+
 ## Codes and Experimental Charts
 ### Paper One：API-Mashup Ecosystem
 Charts | Codes | Charts | Codes
@@ -31,3 +34,5 @@ Table IV | [table4.py]() | Figure 4 | see paper
 Table V  | [table5.py]() | Figure 5 | [figure5.py]()
 Table VI | [table6.py]() | Figure 6 | [figure6.py]()
 
+#### Contact
+Email: 1376493805@qq.com (Yang Wang)
