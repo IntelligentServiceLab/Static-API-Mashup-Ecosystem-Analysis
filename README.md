@@ -8,13 +8,13 @@ This repository presents the tables and figures of the following two papers by r
 ## Dataset Description
 The Web API and Mashup dataset is crawled from [ProgrammableWeb.com](https://www.programmableweb.com/). More details can be referred to another [github repository](https://github.com/IntelligentServiceLab/Web-Service-Crawler). 
 
-**Note that**: Because there is no provider information on Web APIs in the current datasets, we omiit the charts related to providers of Web APIS.
+**Note that**: Because there is no provider information on Web APIs in the current datasets, we omit the charts related to providers of Web APIS.
 
 ## Codes and Experimental Charts
 ### Paper One：API-Mashup Ecosystem
 Charts | Codes | Charts | Codes
  :- | :- |  :- | :-
-Table 1  | [table1.py]() | Table 10 | --
+[Table 1](API-Mashup_Ecosystem/table1.py)  | [table1.py](API-Mashup_Ecosystem/charts/table1.jpg) | Table 10 | --
 Table 2  | [table2.py]() | Table 11 | --
 Table 3  | [table3.py]() | Figure 1 | see paper
 Table 4  | [table4.py]() | Figure 2 | [figure2.py]()
